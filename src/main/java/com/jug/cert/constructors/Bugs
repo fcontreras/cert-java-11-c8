@@ -1,0 +1,11 @@
+package com.jug.cert.constructors;
+
+public class Bugs {
+    public bugs() {}
+    public void Bugs()  {}
+}
+
+class Bonobo {
+    public Bonobo(int foo) {}
+    public Bonobo(var foo) {}
+}
